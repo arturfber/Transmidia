@@ -1,0 +1,226 @@
+/* IMAGES
+article #inline-001{
+    background-image: url(/themes/default/assets/img/transmidia/SVG/info.map.svg); 
+}
+
+article #inline-002{
+    background-image: url(/themes/default/assets/img/transmidia/copa-das-árvores-1024x777.jpg);
+
+
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+article #inline-003{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218400202011061055-1.jpg);
+}
+
+article #inline-004{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218402202011061056.jpg);
+}
+
+article #inline-005{
+    background-image: url(/themes/default/assets/img/transmidia/transinfo0-1582312644-65-1024x645.jpg);
+}
+
+article #inline-006{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218410202011061056.jpg);
+}
+
+article #inline-007{
+    background-image: url(/themes/default/assets/img/transmidia/SVG/world.map.svg);
+}
+
+article #inline-008{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218411202011061056.jpg);
+}
+
+article #inline-009{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218412202011061056.jpg);
+}
+
+article #inline-010{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218413202011061056.jpg);
+}
+
+article #inline-011{
+    background-image: url(/themes/default/assets/img/transmidia/istock-657653834.jpg);
+}
+
+article #inline-012{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218414202011061056.jpg);
+}
+
+article #inline-013{
+    background-image: url(/themes/default/assets/img/transmidia/caminho-entre-arvores.jpg);
+}
+
+article #inline-014{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218415202011061056.jpg);
+}
+
+article #inline-015{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218416202011061056.jpg);
+}
+
+article #inline-016{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218417202011061056.jpg);
+}
+
+article #inline-017{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218418202011061056.jpg);
+}
+
+article #inline-018{
+    background-image: url(/themes/default/assets/img/transmidia/scale_2000x0x0x0_transcadeia-1582326461-32.jpg);
+}
+
+article #inline-019{
+    background-image: url(/themes/default/assets/img/transmidia/Mudas-5.jpg);
+}
+
+article #inline-020{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218420202011061056.jpg);
+}
+
+article #inline-021{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218421202011061056.jpg);
+}
+
+article #inline-022{
+    background-image: url(/themes/default/assets/img/transmidia/preparo-do-solo-para-plantio-do-milho.jpg);
+}
+
+article #inline-023{
+    background-image: url(/themes/default/assets/img/transmidia/The-forests-of-the-Amazon-are-an-important-carbon-sink.jpg);
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+}
+
+article #inline-024{
+    background-image: url(/themes/default/assets/img/transmidia/plantio_na_captao_muniz_freire.jpg);
+    background-position: top;
+}
+
+article #inline-025{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218423202011061056.jpg);
+}
+
+article #inline-026{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218424202011061056.jpg);
+}
+
+article #inline-027{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218426202011061056.jpg);
+    background-position: top;
+}
+
+article #inline-028{
+    background-image: url(/themes/default/assets/img/transmidia/maxresdefault.jpg);
+    background-position: bottom;
+}
+
+article #inline-029{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218429202011061056.jpg);
+}
+
+article #inline-030{
+    background-image: url(/themes/default/assets/img/transmidia/eucalipto-sistema-ilpf.jpg);
+}
+
+article #inline-031{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218430202011061056.jpg);
+}
+
+article #inline-032{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218432202011061056.jpg);
+}
+
+article #inline-033{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218433202011061056.jpg);
+}
+
+article #inline-034{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218434202011061056.jpg);
+    background-position: top;
+}
+
+article #inline-035{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218435202011061056.jpg);
+}
+
+article #inline-036{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218436202011061056.jpg);
+    background-position: bottom;
+}
+
+article #inline-037{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218438202011061056.jpg);
+}
+
+article #inline-038{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218440202011061056.jpg);
+    background-position: bottom;
+}
+
+article #inline-039{
+    background-image: url(/themes/default/assets/img/transmidia/880px-Nau_de_Pedro_Álvares_Cabral.jpg);
+}
+
+article #inline-040{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218406202011061056.jpg);
+}
+
+article #inline-041{
+    background-image: url(/themes/default/assets/img/transmidia/nativas-1024x772.jpg);
+}
+
+article #inline-042{
+    background-image: url(/themes/default/assets/img/transmidia/vista-aerea.jpg);
+}
+
+
+.sample #sample-01{
+
+}
+
+.sample #sample-02{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218407202011061056.jpg);
+    background-size: cover;
+    transform: rotateY(180deg);
+}
+
+.sample #sample-03{
+    background-image: url(/themes/default/assets/img/transmidia/amazonas_small_05.jpg);
+    background-size: cover;
+    position: relative;
+}
+
+.sample #sample-04{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218409202011061056.jpg);
+    background-size: cover;
+    position: relative;
+}
+
+.sample #sample-05{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218425202011061056.jpg);
+    background-size: cover;
+    display: flex;
+}
+
+.sample #sample-06{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218431202011061056.jpg);
+    background-size: cover;
+    display: flex;
+}
+
+.sample #sample-07{
+    background-image: url(/themes/default/assets/img/transmidia/ESPECIAL-Transmidia---O-Parana-na-vanguarda-da-Era0298218439202011061056.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+} */
